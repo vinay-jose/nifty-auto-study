@@ -1,1 +1,19 @@
 # Study of stocks performance from NIFTY AUTO index
+
+| Sl. No. | Name of the stock       | Colab link                                                                                                                                                                                 |
+|---------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.      | Ashok Leyland           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/ashok_leyland.ipynb) |
+| 2.      | Bajaj Auto              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/bajaj_auto.ipynb)    |
+| 3.      | Balkrishna Industries   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/balkrishna_industries.ipynb) |
+| 4.      | Bharat Forge            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/bharat_forge.ipynb) |
+| 5.      | Bosch Ltd.              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/bosch_ltd.ipynb) |
+| 6.      | Eicher Motors           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/eicher_motors.ipynb) |
+| 7.      | Hero Motocorp           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/hero_motocorp.ipynb) |
+| 8.      | Mahindra & Mahindra     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/mahindra.ipynb) |
+| 9.      | Maruti Suzuki           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/maruti_suzuki.ipynb) |
+| 10.     | Motherson               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/motherson.ipynb) |
+| 11.     | MRF                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/mrf.ipynb) |
+| 12.     | Sona Precision Forgings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/sona_precision_forgings.ipynb) |
+| 13.     | Tata Motors             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/tata_motors.ipynb) |
+| 14.     | Tube Investments        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/tube_investments.ipynb) |
+| 15.     | TVS Motors              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinay-jose/nifty-auto-study/blob/main/notebooks/tvs_motors.ipynb) |
